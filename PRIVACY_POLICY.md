@@ -2,7 +2,7 @@
 
 **Effective date:** August 28, 2025 
 
-DVTS.REG Mobile (“we,” “our,” or “the app”) respects your privacy. This Privacy Policy explains what data is handled, how it is used, and your choices.  
+DOT.REG Mobile (“we,” “our,” or “the app”) respects your privacy. This Privacy Policy explains what data is handled, how it is used, and your choices.  
 
 ## 1. No Personal Data Collected
 - The app does **not** collect personal identifiers from your device, such as name, email, phone number, location, contacts, calendar, or device IDs.  
